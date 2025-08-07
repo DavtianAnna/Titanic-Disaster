@@ -1,4 +1,4 @@
-#🚢 Titanic Survival Prediction - Kaggle Classification Challenge
+# 🚢 Titanic Survival Prediction - Kaggle Classification Challenge
 
 This repository contains my solution for [Titanic - Machine Learning from Disaster – Kaggle](https://www.kaggle.com/competitions/titanic) competition.
 The goal of this challenge is to predict the survival of passengers aboard the Titanic using passenger information such as age, sex, ticket class, and more.
@@ -121,6 +121,3 @@ To install all required libraries:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn ets.
