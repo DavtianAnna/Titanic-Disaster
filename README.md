@@ -4,6 +4,10 @@ This repository contains my solution for [Titanic - Machine Learning from Disast
 The goal of this challenge is to predict the survival of passengers aboard the Titanic using passenger information such as age, sex, ticket class, and more.
 It is a binary classification task with the target variable being Survived (0 = No, 1 = Yes).
 
+
+![173261197316135550](https://github.com/user-attachments/assets/6997e7ef-430c-40ac-a1f1-b1d95ef61e99)
+
+
 ---
 
 ## 🗂️ Project Structure
